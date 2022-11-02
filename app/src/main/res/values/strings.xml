@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nguyễn Hữu Duy</string>
+    <string name="nav_header_subtitle">duy03092001@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="tab_list_song">List song</string>
+    <string name="tab_discover">Discover</string>
+    <string name="tab_favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
